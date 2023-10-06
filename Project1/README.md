@@ -19,7 +19,8 @@ Then I start coding them in UIflow. However, I get the bug that the button canno
 ![re-diagram](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/0a5e0b31-0ae8-47d9-b496-69be8a8f8ab8)
 
 
-After the coding part is working, I will focus on the wiring part. I have two solutions for this project, one is using the esp32 original light, and the other is using color rings. I am not sure how to combine the ring in esp32 right now so I just made the [solution 1 prototype]([https://pages.github.com/](https://github.com/galinajialinzhu/Adv-prototyping/blob/main/Project1/code_oct6_0500.m5f2)) work.
+After the coding part is working, I will focus on the wiring part. I have two solutions for this project, one is using the esp32 original light, and the other is using color rings. I am not sure how to combine the ring in esp32 right now so I just made the [solution 1 prototype](./code_oct6_0500.m5f2)) work.
+
 ![wiring](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/3718bf91-1302-42a7-ad69-3150c048c9bc)
 
 ### question
