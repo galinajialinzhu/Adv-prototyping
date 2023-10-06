@@ -1,5 +1,7 @@
 # Project1
+
 ## part 1
+
 This week we are exploring different ideas and drawing two ideation from brainstorming. 
 ![Frame 7](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/3255a609-30b6-4a7b-9a9e-8c4bdb418cdb)
 ![Frame 6](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/d2dc491d-bf00-41a1-a4fe-9f58766c88ae)
