@@ -1,10 +1,10 @@
 # Project1
-##part 1
+## part 1
 This week we are exploring different ideas and drawing two ideation from brainstorming. 
 ![Frame 7](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/3255a609-30b6-4a7b-9a9e-8c4bdb418cdb)
 ![Frame 6](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/d2dc491d-bf00-41a1-a4fe-9f58766c88ae)
 
-##part 2
+## part 2
 This week, we started to do the prototype part for it. I chose the plush toy idea and meshed it with one of the anime characters --Bill Cipher.
 ![Bill_Cipher](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/8873a6bc-0d6d-4913-ab40-f683a3d7410d)
 
@@ -20,6 +20,6 @@ Then I start coding them in UIflow. However, I get the bug that the button canno
 After the coding part is working, I will focus on the wiring part. I have two solutions for this project, one is using the esp32 original light, and the other is using color rings. I am not sure how to combine the ring in esp32 right now so I just made the solution 1 prototype work.
 ![wiring](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/3718bf91-1302-42a7-ad69-3150c048c9bc)
 
-###question
+### question
 1. debug the button problem
 2. Using color rings problem
