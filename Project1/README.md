@@ -1,4 +1,4 @@
-# Project1
+# WEEK3
 
 ## part 1
 
@@ -6,7 +6,8 @@ This week we are exploring different ideas and drawing two ideation from brainst
 ![Frame 7](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/3255a609-30b6-4a7b-9a9e-8c4bdb418cdb)
 ![Frame 6](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/d2dc491d-bf00-41a1-a4fe-9f58766c88ae)
 
-## part 2
+# WEEK4
+## part 1
 This week, we started to do the prototype part for it. I chose the plush toy idea and meshed it with one of the anime characters --Bill Cipher.
 ![Bill_Cipher](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/8873a6bc-0d6d-4913-ab40-f683a3d7410d)
 
@@ -23,6 +24,10 @@ After the coding part is working, I will focus on the wiring part. I have two so
 
 ![wiring](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/3718bf91-1302-42a7-ad69-3150c048c9bc)
 
-### question
+## question
 1. debug the button problem
 2. Using color rings problem
+
+## solution
+1. Not fixing yet... but trying to use self-writing code instead of UIflow blocky code.
+2. <img width="340" alt="image" src="https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/ebd99759-2fcc-4f1e-91c2-ac53612cab93">
