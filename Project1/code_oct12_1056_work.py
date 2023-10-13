@@ -23,12 +23,13 @@ def setup():
   rgb = RGB(io=1, n=1, type="WS2812")
   rgb.fill_color(0xffffff)
   pin_hand = Pin(39, mode=Pin.IN)
-  Pin_button = Pin(41, mode=Pin.In)
+  Pin_button = Pin(41, mode=Pin.IN)
   pressed = 0
 
 
 def loop():
-  global rgb, pin_hand, Pin_button, FutureTime, pressed, NowTime  M5.update()
+  global rgb, pin_hand, Pin_button, FutureTime, pressed, NowTime
+  M5.update()
   pressed = 0
   NowTime = time.ticks_ms()
   FutureTime = time.ticks_ms()
