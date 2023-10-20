@@ -32,3 +32,9 @@ After the coding part is working, I will focus on the wiring part. I have two so
 1. fixing it by using the button as a pin instead of using UIflow BtnA.<img width="240" alt="image" src="https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/d63845da-e1dc-46c9-8031-c5e73ecdfff5">
 
 2. <img width="340" alt="image" src="https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/ebd99759-2fcc-4f1e-91c2-ac53612cab93">
+
+# WEEK5
+Then I fixed all the bugs. Then I 3D printed the cover for the circuit to make my bill character in this model.
+
+And finally, record my final video.
+https://youtu.be/rgrBIsz8IaY
