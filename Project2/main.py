@@ -22,7 +22,7 @@ def draw():
   #move it to middle of canvas
   p5.translate(p5.width/2, p5.height/2)
   #change it from degrees to radians
-  p5.ritate(p5.radians(angle))
+  p5.rotate(p5.radians(angle))
   #draw it from center
   p5.rectMode(p5.CENTER)
   #draw rec at this point
