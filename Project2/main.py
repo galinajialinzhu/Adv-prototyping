@@ -42,13 +42,13 @@ def draw():
   if (sound_val>1000):
     noise_time = time.time() * 1000 +5000
 
-  if(noise_time<current_time and light_val>300):
+  if(noise_time<current_time and light_val>1000):
     happy()
-  elif (noise_time>current_time and light_val>300):
+  elif (noise_time>current_time and light_val>1000):
     sad()
-  elif (noise_time>current_time and light_val<300):
+  elif (noise_time>current_time and light_val<1000):
     angry()
-  elif (noise_time<current_time and light_val<300):
+  elif (noise_time<current_time and light_val<1000):
     sleep()
   print(sound_val, light_val)
 
