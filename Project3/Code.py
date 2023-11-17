@@ -27,7 +27,7 @@ while(True):
     servo.move(90)
     M5.update()
     time.sleep_ms(100)
-    if(adc_val_8bit< 20):
+    if(adc_val_8bit< 100):
         servo.move(130)
         time.sleep_ms(100)
 
