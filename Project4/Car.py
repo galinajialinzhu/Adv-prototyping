@@ -139,7 +139,7 @@ def setup():
     global mqtt_client,switch_mode
 
     Widgets.fillScreen(0x1ec9ff)
-    mqtt_client = MQTTClient('TEST', 'io.adafruit.com', port=1883, user='Gariiizyu', password='aio_UhoC66OwPMFlvygE7G7zexH4htqK', keepalive=0)
+    mqtt_client = MQTTClient('TEST', 'io.adafruit.com', port=1883, user='', password='', keepalive=0)
     mqtt_client.connect(clean_session = True)
     mqtt_client.subscribe('Gariiizyu/feeds/car', mqtt_Gariiizyu_Feeds_car_event, qos=0)
     switch_mode = Pin(1, mode=Pin.IN, pull=Pin.PULL_UP)
