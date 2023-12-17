@@ -1,9 +1,9 @@
 # project 3 
 ## Ideation
 
-##prototyping
+## prototyping
 
-##coding
+## coding
 
-##video
+## video
 https://youtu.be/CuukmGFo5EI
