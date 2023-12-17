@@ -5,6 +5,8 @@ this is the ideation of my project, I want to make an emotional support robot th
 Then I designed three scenarios for this robot. (but in the end, only two worked due to limited pins... but I tried to combine the ai camera)
 ## Design
 
+![Slide 4_3 - 2](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/2f8bbc50-a4b7-456f-95dc-ae9d5ebae3db)
+
 I am also trying hard with the mqtt. it did not let me subscribe at first, but then I checked some of the documentation that showed uiflow2 had some broken unfinished code there. And then I fix them with my handwriting code:
 
 
@@ -18,6 +20,7 @@ def loop():
 
 Then I 3d printing the case for my robot. 
 ![QQ截图20231217014355](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/7fb49731-da11-45f1-8d05-007a0c724e0f)
+
 
 
 
