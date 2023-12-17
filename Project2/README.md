@@ -1,5 +1,6 @@
 # This is my second project in adv prototyping class
 
+![IMG_5839 1 (1)](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/2ddf3099-dfe8-47e0-9053-9e4761338222)
 
 Copy the code in main.py, modify if needed and run it in Thonny connected to your Atom board. Quit Thonny after running it.
 
