@@ -17,6 +17,8 @@ def loop():
     mqtt_client.wait_msg()
 
 Then I 3d printing the case for my robot. 
+![QQ截图20231217014355](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/7fb49731-da11-45f1-8d05-007a0c724e0f)
+
 
 
 ## video
