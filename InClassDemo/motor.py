@@ -10,7 +10,6 @@ adc = None
 adc_val = None
 adc = ADC(Pin(6), atten=ADC.ATTN_11DB)
 
-
 def map_value(in_val, in_min, in_max, out_min, out_max):
     v = out_min + (in_val - in_min) * (out_max - out_min) / (in_max - in_min)
     if (v < out_min): 
