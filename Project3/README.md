@@ -8,7 +8,7 @@ So I switched it to the light sensor, I use an LED in front and a light sensor i
 
 ![Slide 4_3 - 1](https://github.com/galinajialinzhu/Adv-prototyping/assets/92561657/46dbf8da-b242-478f-8b7a-ae56f0bb9ce7)
 
-
+https://cdn.discordapp.com/attachments/1094865620488683530/1185885016547401758/IMG_6063.jpg?ex=65913c7c&is=657ec77c&hm=109ece2d0808244374e0fd4e9241219eb30d2f6dfc0fb7bd8314cfd8bccf78f8&
 
 
 
